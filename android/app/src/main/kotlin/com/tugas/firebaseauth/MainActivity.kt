@@ -1,0 +1,6 @@
+package com.tugas.firebaseauth;
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

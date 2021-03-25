@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "879226554218",
+    "project_id": "tugas-auth",
+    "storage_bucket": "tugas-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879226554218:android:8fa02c97b64c935333c713",
+        "android_client_info": {
+          "package_name": "com.tugas.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879226554218-p6gu3felup0evbgefo9ufo1v064g3s8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT5R3oJQR6z1oj1Y4WUYLEUoKWca_w29A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879226554218-p6gu3felup0evbgefo9ufo1v064g3s8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
